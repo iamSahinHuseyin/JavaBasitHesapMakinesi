@@ -25,7 +25,7 @@ public class Main {
             case 3:
                 System.out.println("Çarpma işlemi seçildi.");
                 carpmaIslemi(sc);
-                break;
+                break ;
             case 4:
                 System.out.println("Bölme işlemi seçildi.");
                 bolmeIslemi(sc);
